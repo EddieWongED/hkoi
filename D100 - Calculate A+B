@@ -1,0 +1,10 @@
+#include <iostream>
+
+
+int main(){
+    int a,b;
+    scanf("%d %d", &a, &b);
+    
+    int calc = a + b;
+    printf("%d\n", calc);
+}
